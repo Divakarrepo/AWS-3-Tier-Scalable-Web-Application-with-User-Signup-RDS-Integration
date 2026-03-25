@@ -85,17 +85,14 @@ This project demonstrates a **production-ready 3-tier architecture on AWS** wher
 
 ## 🧪 API Testing
 
-```
 curl -X POST http://<ALB-DNS>/signup \
 -H "Content-Type: application/json" \
 -d '{"username":"test","password":"123"}'
-```
 
 ---
 
 ## 🗄️ Database Schema
 
-```
 CREATE DATABASE login_db;
 
 USE login_db;
@@ -105,7 +102,6 @@ CREATE TABLE users (
     username VARCHAR(255) UNIQUE,
     password VARCHAR(255)
 );
-```
 
 ---
 
