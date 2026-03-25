@@ -6,11 +6,9 @@ This project demonstrates a **production-ready 3-tier architecture on AWS** wher
 
 ---
 
-## 🏗️ Architecture Overview
+## 🏗️ Architecture
 
-```
-![Alt text](screenshots/architecture diagram.png)
----
+![Alt text](screenshots/architecture.png)
 
 ## 🧩 Tech Stack
 
